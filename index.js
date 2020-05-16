@@ -27,4 +27,5 @@ function iLoveTheBeatles(number)
     arr[15-number-1]="I love the Beatles!"
     number++;
   }while(number<15)
+  return arr;
 }
