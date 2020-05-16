@@ -22,7 +22,7 @@ function johnLennonFacts(facts)
 
 function iLoveTheBeatles(number)
 {
-  var arr;
+  var arr=[];
   do{
     arr[15-number-1]="I love the Beatles!"
     number++;
